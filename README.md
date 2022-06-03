@@ -1,3 +1,1 @@
-- Hi, I’m @Critical0x!
-- I’m interested in Cybersecurity, Network Security and Penetration Testing.
-- I’m currently learning Network+ as well as Security+ in hopes to break into the cybersecurity field.
+Programming and cybersecurity n00b :)
